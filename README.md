@@ -1,6 +1,10 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome USER_NAME,
+Welcome ian-IBCIRL,
+
+To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+or
+/home/gitpod/.pyenv/versions/3.8.11/bin/python /workspace/pymud01/p1.py
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
